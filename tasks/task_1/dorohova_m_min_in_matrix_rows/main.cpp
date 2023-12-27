@@ -153,7 +153,6 @@ int main(int argc, char** argv) {
     listeners.Release(listeners.default_result_printer());
     listeners.Release(listeners.default_xml_generator());
 
-    listeners.Append(new GTestMPIListener::MPIMinimalistPrinter);
 /*
     std::vector<int> matrix = getRandomMatrix(5, 5);
     printMatrix(matrix, 5, 5);
