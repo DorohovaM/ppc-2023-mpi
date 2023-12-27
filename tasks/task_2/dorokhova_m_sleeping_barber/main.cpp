@@ -1,9 +1,10 @@
 // Copyright 2023 Dorokhova Marya
+#include "../../../tasks/task_2/dorokhova_m_sleeping_barber/sleeping_barber.h"
 #include <gtest-mpi-listener.hpp>
 #include <gtest/gtest.h>
 #include <vector>
 #include <algorithm>
-#include "../../../tasks/task_2/dorokhova_m_sleeping_barber/sleeping_barber.h"
+
 
 
 TEST(Sleeping_Barber, test_1) {
