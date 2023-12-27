@@ -166,5 +166,6 @@ int main(int argc, char** argv) {
     std::cout << "Parallel mins: " <<std::endl;
     printVector(parMins);
 */
+
     return RUN_ALL_TESTS();
 }
