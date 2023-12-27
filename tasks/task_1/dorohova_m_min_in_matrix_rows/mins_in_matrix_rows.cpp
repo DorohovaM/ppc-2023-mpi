@@ -1,7 +1,7 @@
 // Copyright 2023 Dorokhova Marya
+#include <iostream>
 #include <mpi.h>
 #include <random>
-#include <iostream>
 #include <string>
 #include <ctime>
 #include <vector>
