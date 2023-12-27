@@ -1,4 +1,5 @@
 // Copyright 2023 Dorokhova Marya
+#include <mpi.h>
 #include <gtest/gtest.h>
 #include <vector>
 #include <iostream>
