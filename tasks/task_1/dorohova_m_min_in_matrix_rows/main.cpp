@@ -2,7 +2,6 @@
 #include <gtest/gtest.h>
 #include <vector>
 #include <iostream>
-#include <gtest-mpi-listener.hpp>
 #include "./mins_in_matrix_rows.h"
 
 
