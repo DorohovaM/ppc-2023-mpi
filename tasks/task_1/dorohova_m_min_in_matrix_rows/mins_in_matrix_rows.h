@@ -1,6 +1,6 @@
 // Copyright 2023 Dorokhova Marya
-#ifndef TASKS_TASK_1_DOROHOVA_M_MINS_IN_MATRIX_ROWS_MINS_IN_MATRIX_ROWS_H_
-#define TASKS_TASK_1_DOROHOVA_M_MINS_IN_MATRIX_ROWS_MINS_IN_MATRIX_ROWS_H_
+#ifndef TASKS_TASK_1_DOROHOVA_M_MIN_IN_MATRIX_ROWS_MINS_IN_MATRIX_ROWS_H_
+#define TASKS_TASK_1_DOROHOVA_M_MIN_IN_MATRIX_ROWS_MINS_IN_MATRIX_ROWS_H_
 
 #include <vector>
 #include <string>
@@ -13,4 +13,4 @@ std::vector<int> getParallelMinsInMatrix(const std::vector<int>& matr, int m, in
 void printVector(const std::vector<int>& vec);
 void printMatrix(const std::vector<int>& matr, int m, int n);
 
-#endif  // TASKS_TASK_1_DOROHOVA_M_MINS_IN_MATRIX_ROWS_MINS_IN_MATRIX_ROWS_H_
+#endif  // TASKS_TASK_1_DOROHOVA_M_MIN_IN_MATRIX_ROWS_MINS_IN_MATRIX_ROWS_H_

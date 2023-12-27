@@ -1,11 +1,11 @@
 // Copyright 2023 Dorokhova Marya
 #include <mpi.h>
+#include <random>
 #include <iostream>
 #include <string>
-#include <random>
-#include <algorithm>
 #include <ctime>
 #include <vector>
+#include <algorithm>
 #include "../../../tasks/task_1/dorohova_m_min_in_matrix_rows/mins_in_matrix_rows.h"
 
 
