@@ -1,10 +1,11 @@
 // Copyright 2023 Dorokhova Marya
+#include "../../../tasks/task_2/dorokhova_m_sleeping_barber/sleeping_barber.h"
 #include <mpi.h>
 #include <algorithm>
 #include <random>
 #include <ctime>
 #include <iostream>
-#include "../../../tasks/task_2/dorokhova_m_sleeping_barber/sleeping_barber.h"
+
 
 void CutTime(double visitorTime) {
   double CutTime = MPI_Wtime();
