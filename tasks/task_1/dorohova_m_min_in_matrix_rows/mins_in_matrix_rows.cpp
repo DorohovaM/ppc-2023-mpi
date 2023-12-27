@@ -1,12 +1,13 @@
 // Copyright 2023 Dorokhova Marya
+#include "../../../modules/task_1/dorohova_m_min_in_matrix_rows/mins_in_matrix_rows.h"
 #include <mpi.h>
-#include <vector>
 #include <string>
 #include <random>
 #include <algorithm>
 #include <ctime>
 #include <iostream>
-#include "../../../modules/task_1/dorohova_m_min_in_matrix_rows/mins_in_matrix_rows.h"
+#include <vector>
+
 
 std::vector<int> getRandomMatrix(int m, int n) {
     std::vector<int> matrix(m * n);
