@@ -1,8 +1,8 @@
 // Copyright 2023 Dorokhova Marya
-#include <gtest-mpi-listener.hpp>
 #include <gtest/gtest.h>
 #include <vector>
 #include <iostream>
+#include <gtest-mpi-listener.hpp>
 #include "./mins_in_matrix_rows.h"
 
 
